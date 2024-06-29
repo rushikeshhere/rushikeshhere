@@ -1,6 +1,6 @@
 
-![Header](./![github-header-image](https://github.com/rushikeshhere/rushikeshhere/assets/121252162/2191fa35-3c47-4371-b308-0150e9033f32)
-.png)
+![github-header-image](https://github.com/rushikeshhere/rushikeshhere/assets/121252162/88058cd3-5654-4ab0-b955-e03c0d3c992c)
+
 
 
 <h1 align="center">Hi 👋, I'm Rushikesh Here</h1>
