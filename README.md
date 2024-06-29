@@ -1,5 +1,4 @@
-
-![github-header-image](https://github.com/rushikeshhere/rushikeshhere/assets/121252162/88058cd3-5654-4ab0-b955-e03c0d3c992c)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Rushikesh Here &txt=Here%20is%20my%20custom%20text"></p>
 
 
 
