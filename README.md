@@ -1,5 +1,6 @@
 
-![Header](./your-header-image-name.png)
+![Header](./![github-header-image](https://github.com/rushikeshhere/rushikeshhere/assets/121252162/2191fa35-3c47-4371-b308-0150e9033f32)
+.png)
 
 
 <h1 align="center">Hi 👋, I'm Rushikesh Here</h1>
